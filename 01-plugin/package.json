@@ -1,0 +1,14 @@
+{
+  "name": "01-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "marked": "^0.7.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "html-loader": "1.3.0"
+  }
+}
